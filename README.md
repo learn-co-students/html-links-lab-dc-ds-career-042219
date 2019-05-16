@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-Links, also known as _hyperlinks_, put the _web_ in _World Wide Web_: many
+Links, also known as  _hyperlinks_, put the _web_ in _World Wide Web_: many
 millions of HTML pages, connected together through _links_. In this lab, we will
 be discussing links in HTML and applying what we've learned.
 
